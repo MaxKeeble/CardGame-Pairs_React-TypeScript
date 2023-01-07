@@ -1,0 +1,21 @@
+.endPage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 54px;
+  font-family: sans-serif;
+  text-shadow: 0 0 3px white, 0 0 14px white, 0 0 12px white, 0 0 10px white,
+    0 0 3px white, 0 0 14px white, 0 0 12px white;
+  background-color: rgba(200, 200, 200, 0.5);
+}
+
+.endPageText {
+  margin-bottom: 70px;
+}

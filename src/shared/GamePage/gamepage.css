@@ -1,0 +1,11 @@
+.square {
+  display: grid;
+  gap: 10px;
+  box-sizing: border-box;
+  margin: 20px auto;
+  padding: 15px;
+  width: calc((100vh - 80px) / 1.2);
+  height: calc(100vh - 80px);
+  border: 2px dotted red;
+  text-align: center;
+}
