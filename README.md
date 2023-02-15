@@ -3,4 +3,4 @@
 - Игра на время с таймером обратного отсчёта
 - Возможность выбора размера игрового поля
 
- Посмотреть на [GitHub Pages](https://maxkeeble.github.io/CardGame-Pairs_React-TypeScript/)
+ Посмотреть на [GitHub Pages:](https://maxkeeble.github.io/CardGame-Pairs_React-TypeScript/)
